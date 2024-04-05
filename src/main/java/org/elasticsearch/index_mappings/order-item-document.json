@@ -1,0 +1,29 @@
+{
+  "order_id":"order-001",
+  "country_code":"IN",
+  "country_name":"INDIA",
+  "order_date":"2024-04-05T05:06:45",
+  "order_amount": 150.96,
+  "order_tax_amount": "5.06",
+  "items": ["Smart-TV", "Wireless Remote"],
+  "order_items":[
+    {
+      "item_id":"item-001",
+      "item_name":"XYZ Smart-TV",
+      "item_desc":"XYZ Smart-TV 5001",
+      "item_quantity":"10",
+      "item_selling_price":12,
+      "item_discount":"1%"
+    },
+    {
+      "item_id":"item-002",
+      "item_name":"ABC Wireless Remote",
+      "item_desc":"ABC Wireless Remote ABC-001",
+      "item_quantity":"10",
+      "item_selling_price":1,
+      "item_discount":"0%"
+    }
+  ],
+  "estimated_ship":"2024-04-07T05:06:45",
+  "estimated_delivery":"2024-04-08T05:06:45"
+}
